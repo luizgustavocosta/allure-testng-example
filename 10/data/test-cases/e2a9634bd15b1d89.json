@@ -1,0 +1,88 @@
+{
+  "uid" : "e2a9634bd15b1d89",
+  "name" : "validateTransaction",
+  "fullName" : "com.costa.luiz.testng.PaymentServiceTest.validateTransaction",
+  "historyId" : "d5709af0980197a6aa4dd6e111b2470",
+  "time" : {
+    "start" : 1642042798965,
+    "stop" : 1642042798967,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "validateTransaction"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az37-691"
+  }, {
+    "name" : "thread",
+    "value" : "2804@fv-az37-691.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Issuing Bank"
+  }, {
+    "name" : "feature",
+    "value" : "Payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6e424228fbf9cc95",
+        "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/6e424228fbf9cc95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642041321624,
+          "stop" : 1642041321625,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e2a9634bd15b1d89.json",
+  "parameterValues" : [ ]
+}
