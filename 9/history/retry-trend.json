@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 9,
+  "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 12,
+    "retry" : 0
+  }
+} ]

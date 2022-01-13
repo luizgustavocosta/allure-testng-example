@@ -1,0 +1,74 @@
+{
+  "uid" : "6d051ed0450cc6c4",
+  "name" : "sendAMessage",
+  "fullName" : "com.costa.luiz.testng.PaymentServiceTest.sendAMessage",
+  "historyId" : "22f246d5be9f120662bfc507b84400fc",
+  "time" : {
+    "start" : 1642041321654,
+    "stop" : 1642041321654,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "sendAMessage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az92-399"
+  }, {
+    "name" : "thread",
+    "value" : "2750@fv-az92-399.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Internal system"
+  }, {
+    "name" : "feature",
+    "value" : "Payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Failure"
+  }, {
+    "name" : "arg1",
+    "value" : "Payment not accepted"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d051ed0450cc6c4.json",
+  "parameterValues" : [ "Failure", "Payment not accepted" ]
+}

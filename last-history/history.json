@@ -1,0 +1,243 @@
+{
+  "bd0afc8668796a99084fe48196470937" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acdfbdfe09f7ca9",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/acdfbdfe09f7ca9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321656,
+        "stop" : 1642041321657,
+        "duration" : 1
+      }
+    } ]
+  },
+  "fa27067897cb5138782269ca053cd026" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "808c1b66dfd73ff",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/808c1b66dfd73ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321619,
+        "stop" : 1642041321619,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dc69b5b72c43c361105188d919c7bbdd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94f4b156e2bc272",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/94f4b156e2bc272",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321575,
+        "stop" : 1642041321588,
+        "duration" : 13
+      }
+    } ]
+  },
+  "22f246d5be9f120662bfc507b84400fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6d051ed0450cc6c4",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/6d051ed0450cc6c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321654,
+        "stop" : 1642041321654,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8c78ea56933b0a2bf715419b7d0fb0eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1a89dd72fcd7d5db",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/1a89dd72fcd7d5db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321606,
+        "stop" : 1642041321606,
+        "duration" : 0
+      }
+    } ]
+  },
+  "df8826a86f03e13b870143e7b7144c85" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fd31e8f54e59f54",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/5fd31e8f54e59f54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321611,
+        "stop" : 1642041321611,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5bb9618b5d496c247036fd16e4b0a838" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9eda56f227fd7bcf",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/9eda56f227fd7bcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321649,
+        "stop" : 1642041321650,
+        "duration" : 1
+      }
+    } ]
+  },
+  "341822e7f2eed18edd274a1cbbe3be8b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2a372c3b0d13999",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/d2a372c3b0d13999",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321599,
+        "stop" : 1642041321599,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d45f553d82e91d1cbf3f2ecd5e981a7e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ded7c7131d30956",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/2ded7c7131d30956",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321632,
+        "stop" : 1642041321632,
+        "duration" : 0
+      }
+    } ]
+  },
+  "27cee41e11d381f838e8b985355aa43c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1927ad5476ff231",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/a1927ad5476ff231",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1642041321405,
+        "stop" : 1642041321407,
+        "duration" : 2
+      }
+    } ]
+  },
+  "d5709af0980197a6aa4dd6e111b2470" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e424228fbf9cc95",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/6e424228fbf9cc95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642041321624,
+        "stop" : 1642041321625,
+        "duration" : 1
+      }
+    } ]
+  },
+  "2a55ef5c9841c3bbcfa87221280805df" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "335325a7930afc44",
+      "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/335325a7930afc44",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1642041321636,
+        "stop" : 1642041321638,
+        "duration" : 2
+      }
+    } ]
+  }
+}
