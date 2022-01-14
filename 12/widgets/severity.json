@@ -1,0 +1,131 @@
+[ {
+  "uid" : "3aa694a06cbdd9e8",
+  "name" : "sendAMessage",
+  "time" : {
+    "start" : 1642123664112,
+    "stop" : 1642123664112,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d36365a9a5b14ca",
+  "name" : "Check the measure to be metric",
+  "time" : {
+    "start" : 1642123664115,
+    "stop" : 1642123664116,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48538aec2461929c",
+  "name" : "engine",
+  "time" : {
+    "start" : 1642123664043,
+    "stop" : 1642123664053,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "18c92341a07617f2",
+  "name" : "brakes",
+  "time" : {
+    "start" : 1642123664118,
+    "stop" : 1642123664118,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "835573f34078d456",
+  "name" : "dontFixMe",
+  "time" : {
+    "start" : 1642123664091,
+    "stop" : 1642123664105,
+    "duration" : 14
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5088ba10a48f046",
+  "name" : "rollbackATransaction",
+  "time" : {
+    "start" : 1642123664089,
+    "stop" : 1642123664089,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a288d478e43e966b",
+  "name" : "validateCard",
+  "time" : {
+    "start" : 1642123664067,
+    "stop" : 1642123664075,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "994611316fcf584c",
+  "name" : "engine",
+  "time" : {
+    "start" : 1642123664058,
+    "stop" : 1642123664058,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "e2dd495b9a79f959",
+  "name" : "radio",
+  "time" : {
+    "start" : 1642123664064,
+    "stop" : 1642123664064,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "61a2d6402b43a5db",
+  "name" : "sendAMessage",
+  "time" : {
+    "start" : 1642123664109,
+    "stop" : 1642123664109,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be915636234c107e",
+  "name" : "entertainmentSystem",
+  "time" : {
+    "start" : 1642123663892,
+    "stop" : 1642123663893,
+    "duration" : 1
+  },
+  "status" : "unknown",
+  "severity" : "minor"
+}, {
+  "uid" : "d1c8cf88d345189",
+  "name" : "validateTransaction",
+  "time" : {
+    "start" : 1642123664078,
+    "stop" : 1642123664084,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0a5bf409496dcd1",
+  "name" : "engine",
+  "time" : {
+    "start" : 1642123664060,
+    "stop" : 1642123664061,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

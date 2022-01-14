@@ -1,0 +1,65 @@
+{
+  "uid" : "4d36365a9a5b14ca",
+  "name" : "Check the measure to be metric",
+  "fullName" : "com.costa.luiz.testng.SpaceShipTest.checkMeasureToBeMetric",
+  "historyId" : "6523d7a5c8c9897ac50d8cbbb7c421fa",
+  "time" : {
+    "start" : 1642123664115,
+    "stop" : 1642123664116,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.costa.luiz.testng.SpaceShipTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.costa.luiz.testng.SpaceShipTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkMeasureToBeMetric"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.costa.luiz.testng.SpaceShipTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az101-342"
+  }, {
+    "name" : "thread",
+    "value" : "2799@fv-az101-342.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Imperial to Metric"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d36365a9a5b14ca.json",
+  "parameterValues" : [ ]
+}

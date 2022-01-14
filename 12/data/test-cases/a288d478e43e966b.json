@@ -1,0 +1,106 @@
+{
+  "uid" : "a288d478e43e966b",
+  "name" : "validateCard",
+  "fullName" : "com.costa.luiz.testng.PaymentServiceTest.validateCard",
+  "historyId" : "fa27067897cb5138782269ca053cd026",
+  "time" : {
+    "start" : 1642123664067,
+    "stop" : 1642123664075,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "validateCard"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.costa.luiz.testng.PaymentServiceTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az101-342"
+  }, {
+    "name" : "thread",
+    "value" : "2799@fv-az101-342.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Issuing Bank"
+  }, {
+    "name" : "feature",
+    "value" : "Payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "1db20fd34f3775c4",
+        "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/11//#testresult/1db20fd34f3775c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642043226038,
+          "stop" : 1642043226038,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "40700709455281dd",
+        "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/10//#testresult/40700709455281dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642042798959,
+          "stop" : 1642042798960,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "808c1b66dfd73ff",
+        "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/808c1b66dfd73ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642041321619,
+          "stop" : 1642041321619,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a288d478e43e966b.json",
+  "parameterValues" : [ ]
+}
