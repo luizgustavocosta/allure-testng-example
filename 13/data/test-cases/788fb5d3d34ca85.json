@@ -1,0 +1,115 @@
+{
+  "uid" : "788fb5d3d34ca85",
+  "name" : "radio",
+  "fullName" : "com.costa.luiz.testng.AirplaneTest.radio",
+  "historyId" : "df8826a86f03e13b870143e7b7144c85",
+  "time" : {
+    "start" : 1642124095943,
+    "stop" : 1642124095944,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "radio"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az95-386"
+  }, {
+    "name" : "thread",
+    "value" : "2799@fv-az95-386.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Safety"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "e2dd495b9a79f959",
+        "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/12//#testresult/e2dd495b9a79f959",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642123664064,
+          "stop" : 1642123664064,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "66be6e3955b33d49",
+        "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/11//#testresult/66be6e3955b33d49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642043226028,
+          "stop" : 1642043226028,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f5691687cc46ed0c",
+        "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/10//#testresult/f5691687cc46ed0c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642042798952,
+          "stop" : 1642042798953,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "5fd31e8f54e59f54",
+        "reportUrl" : "https://luizgustavocosta.github.io/allure-testng-example/9//#testresult/5fd31e8f54e59f54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642041321611,
+          "stop" : 1642041321611,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "788fb5d3d34ca85.json",
+  "parameterValues" : [ ]
+}

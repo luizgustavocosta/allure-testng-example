@@ -1,0 +1,131 @@
+[ {
+  "uid" : "bfeeca6520886f01",
+  "name" : "Check the measure to be metric",
+  "time" : {
+    "start" : 1642124096023,
+    "stop" : 1642124096023,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96b5f88c8a329e24",
+  "name" : "entertainmentSystem",
+  "time" : {
+    "start" : 1642124095693,
+    "stop" : 1642124095696,
+    "duration" : 3
+  },
+  "status" : "unknown",
+  "severity" : "minor"
+}, {
+  "uid" : "528fa28fc08b1228",
+  "name" : "validateTransaction",
+  "time" : {
+    "start" : 1642124095971,
+    "stop" : 1642124095974,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "439ffcaa8e1fa4f8",
+  "name" : "dontFixMe",
+  "time" : {
+    "start" : 1642124095988,
+    "stop" : 1642124096001,
+    "duration" : 13
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dc2b15e3758c112",
+  "name" : "brakes",
+  "time" : {
+    "start" : 1642124096030,
+    "stop" : 1642124096030,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "788fb5d3d34ca85",
+  "name" : "radio",
+  "time" : {
+    "start" : 1642124095943,
+    "stop" : 1642124095944,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "52f20da6a3bceced",
+  "name" : "rollbackATransaction",
+  "time" : {
+    "start" : 1642124095981,
+    "stop" : 1642124095983,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af3b9c18bc3de6b5",
+  "name" : "engine",
+  "time" : {
+    "start" : 1642124095937,
+    "stop" : 1642124095938,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "a23fcfac99e2bd0e",
+  "name" : "sendAMessage",
+  "time" : {
+    "start" : 1642124096016,
+    "stop" : 1642124096017,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2269be384123d44",
+  "name" : "engine",
+  "time" : {
+    "start" : 1642124095934,
+    "stop" : 1642124095935,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c6cf87f499e75aee",
+  "name" : "validateCard",
+  "time" : {
+    "start" : 1642124095950,
+    "stop" : 1642124095963,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21a49cf3ddae80bb",
+  "name" : "sendAMessage",
+  "time" : {
+    "start" : 1642124096008,
+    "stop" : 1642124096008,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "842b2e77273378e3",
+  "name" : "engine",
+  "time" : {
+    "start" : 1642124095914,
+    "stop" : 1642124095929,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]
